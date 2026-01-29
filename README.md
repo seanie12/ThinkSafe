@@ -12,7 +12,8 @@ wandb login
 ### 2. Environment and Dependencies
 It is recommended to use a python environment. Install [skythought](https://github.com/NovaSky-AI/SkyThought) then update vllm with the latest version as below. (Other dependencies: peft, datasets, wandb, flash-attention, trl)
 ```bash
-# Activate uv
+# conda create -n thinksafe python=3.10 -y && \
+conda activate thinksafe && \
 cd SkyThought && \
 pip install uv && \
 uv pip install -e . && \
