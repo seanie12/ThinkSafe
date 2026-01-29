@@ -1,0 +1,4 @@
+dataset/safechain_results.json filter=lfs diff=lfs merge=lfs -text
+dataset/thinksafe.json filter=lfs diff=lfs merge=lfs -text
+safety_results/**/*.json filter=lfs diff=lfs merge=lfs -text
+results/**/*.json filter=lfs diff=lfs merge=lfs -text
