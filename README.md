@@ -55,5 +55,3 @@ We provide training scripts for Group Relative Policy Optimization (GRPO) to com
 ```bash
 ./scripts/grpo.sh <BASE_MODEL> <DATASET_NAME> <GPU_IDS>
 ```
-
-### Misc.

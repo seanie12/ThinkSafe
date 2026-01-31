@@ -16,26 +16,26 @@ DS_NAME = {
     "direct-refusal": "TianshengHuang/DirectRefusal",
 
     # ThinkSafe: Qwen3 + LlamaGuard
-    "thinksafe-0.6B": "icml2026-7516/ThinkSafe-Qwen3-0.6B   ",
-    "thinksafe-1.7B": "icml2026-7516/ThinkSafe-Qwen3-1.7B",
-    "thinksafe-4B": "icml2026-7516/ThinkSafe-Qwen3-4B",
-    "thinksafe-8B": "icml2026-7516/ThinkSafe-Qwen3-8B",
+    "thinksafe-0.6B": "Seanie-lee/ThinkSafe-Qwen3-0.6B   ",
+    "thinksafe-1.7B": "Seanie-lee/ThinkSafe-Qwen3-1.7B",
+    "thinksafe-4B": "Seanie-lee/ThinkSafe-Qwen3-4B",
+    "thinksafe-8B": "Seanie-lee/ThinkSafe-Qwen3-8B",
 
     # ThinkSafe: R1-Distill + LlamaGuard
-    "thinksafe-r1-1.5B": "icml2026-7516/ThinkSafe-R1-Distill-1.5B",
-    "thinksafe-r1-7B": "icml2026-7516/ThinkSafe-R1-Distill-7B",
-    "thinksafe-r1-8B": "icml2026-7516/ThinkSafe-R1-Distill-8B",
+    "thinksafe-r1-1.5B": "Seanie-lee/ThinkSafe-R1-Distill-1.5B",
+    "thinksafe-r1-7B": "Seanie-lee/ThinkSafe-R1-Distill-7B",
+    "thinksafe-r1-8B": "Seanie-lee/ThinkSafe-R1-Distill-8B",
 
     # ThinkSafe: Qwen3 + WildGuard
-    "thinksafe-0.6B-wildguard": "icml2026-7516/ThinkSafe-Qwen3-0.6B-WildGuard",
-    "thinksafe-1.7B-wildguard": "icml2026-7516/ThinkSafe-Qwen3-1.7B-WildGuard",
-    "thinksafe-4B-wildguard": "icml2026-7516/ThinkSafe-Qwen3-4B-WildGuard",
-    "thinksafe-8B-wildguard": "icml2026-7516/ThinkSafe-Qwen3-8B-WildGuard",
+    "thinksafe-0.6B-wildguard": "Seanie-lee/ThinkSafe-Qwen3-0.6B-WildGuard",
+    "thinksafe-1.7B-wildguard": "Seanie-lee/ThinkSafe-Qwen3-1.7B-WildGuard",
+    "thinksafe-4B-wildguard": "Seanie-lee/ThinkSafe-Qwen3-4B-WildGuard",
+    "thinksafe-8B-wildguard": "Seanie-lee/ThinkSafe-Qwen3-8B-WildGuard",
 
     # ThinkSafe: R1-Distill + WildGuard
-    "thinksafe-r1-1.5B-wildguard": "icml2026-7516/ThinkSafe-R1-Distill-1.5B-WildGuard",
-    "thinksafe-r1-7B-wildguard": "icml2026-7516/ThinkSafe-R1-Distill-7B-WildGuard",
-    "thinksafe-r1-8B-wildguard": "icml2026-7516/ThinkSafe-R1-Distill-8B-WildGuard",
+    "thinksafe-r1-1.5B-wildguard": "Seanie-lee/ThinkSafe-R1-Distill-1.5B-WildGuard",
+    "thinksafe-r1-7B-wildguard": "Seanie-lee/ThinkSafe-R1-Distill-7B-WildGuard",
+    "thinksafe-r1-8B-wildguard": "Seanie-lee/ThinkSafe-R1-Distill-8B-WildGuard",
 }
 
 def main(args):
