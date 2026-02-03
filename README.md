@@ -55,3 +55,16 @@ We provide training scripts for Group Relative Policy Optimization (GRPO) to com
 ```bash
 ./scripts/grpo.sh <BASE_MODEL> <DATASET_NAME> <GPU_IDS>
 ```
+
+
+### 3. Citation
+
+```bibtex
+@article{
+thinksafe,
+title={{THINKSAFE}: Self-Generated Safety Alignment for Reasoning Models},
+author={Seanie Lee and Sangwoo Par and, Yumin Choi and Gyeongman Kim and Minki Kang and Jihun Yun and Dongmin Park and Jongho Park and Sung Ju Hwang},
+journal={arXiv preprint arXiv:2601.23143},
+year={2026}
+}
+```
