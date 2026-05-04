@@ -1,7 +1,7 @@
 # ThinkSafe: Self-Generated Safety Alignment for Reasoning Models
 
 ## 🤗 Datasets & Checkpoints
-All **ThinkSafe** datasets and trained model checkpoints can be found at our [Hugging Face repository](https://huggingface.co/Seanie-lee/collections).
+All **ThinkSafe** datasets and trained model checkpoints can be found at our [Hugging Face repository](https://huggingface.co/neurips2026-10977).
 
 ## 🚀 Setup
 ### 1. Logging
@@ -57,14 +57,3 @@ We provide training scripts for Group Relative Policy Optimization (GRPO) to com
 ```
 
 
-### 3. Citation
-
-```bibtex
-@article{
-thinksafe,
-title={{THINKSAFE}: Self-Generated Safety Alignment for Reasoning Models},
-author={Seanie Lee and Sangwoo Park and Yumin Choi and Gyeongman Kim and Minki Kang and Jihun Yun and Dongmin Park and Jongho Park and Sung Ju Hwang},
-journal={arXiv preprint arXiv:2601.23143},
-year={2026}
-}
-```
