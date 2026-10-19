@@ -1,7 +1,7 @@
 # ThinkSafe: Self-Generated Safety Alignment for Reasoning Models
 
 ## 🤗 Datasets & Checkpoints
-All **ThinkSafe** datasets and trained model checkpoints can be found at our [Hugging Face repository](https://huggingface.co/neurips2026-10977).
+All **ThinkSafe** datasets and trained model checkpoints can be found at our [Hugging Face repository](https://huggingface.co/Seanie-lee/collections).
 
 ## 🚀 Setup
 ### 1. Logging
